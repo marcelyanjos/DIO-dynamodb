@@ -1,6 +1,3 @@
-# dio-live-dynamodb
-Repositório para o live coding do dia 30/09/2021 sobre o Amazon DynamoDB
-
 ### Serviço utilizado
   - Amazon DynamoDB
   - Amazon CLI para execução em linha de comando
@@ -23,7 +20,9 @@ Use o comando
 aws configure
 ```
 Inserir os valores da chave de acesso geradas
+
 Por padrão "Default region name [None]:" é atribuido o valor "us-west-2"
+
 No valor "Default output format [none]:" definir como "table"
 
 - Criar uma tabela
